@@ -1,21 +1,20 @@
-# email_promo-indeedjobsupdate
-Clone of an email from indeed jobs updates
+# Transactional html emails
 
-https://jerome-wilson-developer.github.io/email_promo-indeedjobsupdate/
+## USPS - AUTO-RENEW PO BOX NOV 30 
+This is a transactional email to notify the customer that their credit card will soon be charged to renew their PO Box rental. The email offers 4 different ways to pay the bill in addition to auto-renew. It also offers several quick links to commonly visited web pages on their website. 
 
-My 5 Phases of Web Development:
-Phase#1: Planning the Project.
-Wireframe ... Prototype ... Pen & Paper ... README.md
+## TECHNOLOGIES USED:
+html tables, html5, css3, mobile responsive, npm, webpack, web accessibility, NVDA, GITHUB , lighthouse audit, NETLIFY.
 
-Phase#2: Build the basic Minimal Viable Project.
-html5_@70% / css3_@70% / javascript-es5_@50% / php7.x_@50% / mysql??_@50% / python3.x_50%.
+## DISCLAIMER:
+The "corporation clones" below are for Demonstration Purposes Only. No infringements are intended against any corporate copyrights, trademarks, intellectual properties, or other proprietary assets. All images are the property of its respective owners. Please contact me if there are any issues. Thank you!
 
-Phase#3: Make the Code more Readable.
-Refactor_@50%(1of2); CleanUp Comments_@50%_(2of3); RWA-Make Mobile-1st_@50%(1of2); Test functionality-UX, responsiveness, accessibility, performance(lighthouse audit), readability-UI, readability(web dev code), etc.
+## ACCESSIBILITY:
+I used accessibility code to increase this page's web accessibility. I mostly used aria-role landmarks and tabindex code to increase focus and access. There is a strong movement in the web development world to build and code web content that is accessible to everybody. Lawsuits and accessility standards are happenning regularly. Some statistics report there are over 1 billion people worldwide who have difficulties using web content because of different disabilities.
 
-Phase#4: Finish building the code for the Minimum Viable Project.
-html5_@99% / css3_@90% / javascript-es5_@99% / php7.x_@99% / mysql??_@99% / python3.x_99%.
+## Github pages link:
+https://jerome-wilson-developer.github.io/email_transact-usps-auto-renew-pobox/
 
-Phase#5: Finish making the Code more Readable.
-Refactor_@99%(2of2); CleanUp Comments_@99%_(3of3); RWA-Make Mobile-1st_@99%(2of2); Test functionality-UX, responsiveness, accessibility, performance(lighthouse audit), readability-UI, readability(web dev code), etc.
+## Netlify link:
+https://usps-auto-renew-pobox.netlify.com/
 
